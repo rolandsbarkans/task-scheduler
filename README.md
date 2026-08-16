@@ -23,7 +23,7 @@ To run the notebook and reproduce the analysis, clone the repo and follow the st
  
 **1. Clone the repository**
  
-    git clone https://github.com/yourusername/task-scheduler.git
+    git clone https://github.com/rolandsbarkans/task-scheduler.git
     cd task-scheduler
  
 **2. Create and activate a virtual environment**
